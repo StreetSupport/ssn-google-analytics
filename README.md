@@ -7,3 +7,5 @@ Requires Google APIs project to be created via: [https://console.developers.goog
 Create service account and save .json credentials as `service-account.json` into `/GoogleAnalyticsReporter` directory.
 
 Service account's email must be granted access to SSN's Google Analytics [https://analytics.google.com](https://analytics.google.com) (account > admin > user management)
+
+Added as a webjob in live api's app service, running daily (zip)
