@@ -6,7 +6,7 @@ Requires Google APIs project to be created via: [https://console.developers.goog
 
 Create service account and save .json credentials as `service-account.json` into `/GoogleAnalyticsReporter` directory.
 
-Generate a .pfx file and put it in the root of the main project.
+Generate a .pfx file and put it into `/GoogleAnalyticsReporter` directory.
 
 Service account's email must be granted access to SSN's Google Analytics [https://analytics.google.com](https://analytics.google.com) (account > admin > user management)
 
